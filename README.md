@@ -4,12 +4,19 @@
 Для запуска программы необходима установка следующих модулей на Python:
 
 1)networkx;
+
 2)matplotlib;
+
 3)Enum;
+
 4)random;
+
 5)numpy;
+
 6)platform;
+
 7)time;
+
 8)os.
 
 ### Об алгоритме SANE
